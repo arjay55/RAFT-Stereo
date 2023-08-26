@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="RAFT-STEREO",
+    name="RaftStereo",
     author="Lipson, Lahav and Teed, Zachary and Deng, Jia",
     description="A short description of your package",
     packages=setuptools.find_packages(),
